@@ -33,4 +33,4 @@ for (var i=1; i<=cats.length; i++){
 }
 
 hideAllCats();
-$("#cat1").show();
+$("#cat2").show();
